@@ -7,3 +7,9 @@ project.md
 .venv/
 .ipynb_checkpoints/
 uv.lock
+
+dataset.zip
+
+artifacts/*.pt
+
+artifacts/experiments/*/*/model.npz
